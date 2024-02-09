@@ -1,3 +1,3 @@
 # GBProject
 
-Placeholder for now
+PLACEHOLDER
